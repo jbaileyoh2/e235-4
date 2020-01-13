@@ -2,4 +2,4 @@
 
 Legos are awesome
 
-![]()
+![Test Image]()
