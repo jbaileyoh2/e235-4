@@ -18,11 +18,9 @@ Connect the two 2x1s to the dark grey 6x2 piece under the second and sixth row
 
 ## Step 3
 
-![Step 3](https://github.com/Joe5565/e235/blob/master/Images/Step%203.png)
+![Step 3](https://github.com/Joe5565/e235/blob/master/Images/Step%203.png) ![Step 3 Completed](https://github.com/Joe5565/e235/blob/master/Images/Step%203%20Complete.png)
 
 Next find the grey circular module piece and the blue cross/circular joint piece and connect the two pieces using the cross sections of each
-
-![Step 3 Completed](https://github.com/Joe5565/e235/blob/master/Images/Step%203%20Complete.png)
 
 ## Step 4
 
@@ -51,4 +49,18 @@ Find the light grey 2x4 piece and join it to the grey 2x6 piece on the first fou
 ![Step 7](https://github.com/Joe5565/e235/blob/master/Images/Step%207.png)
 
 Place row two of the light grey 2x4 angled piece onto row one of the light grey 2x4
+
+## Step 8
+
+![Step 8](https://github.com/Joe5565/e235/blob/master/Images/Step%208.png)
+
+Place the light grey 2x1 inclining piece on the first row of the light grey 2x2 modular piece
+
+![Step 8 Completed](https://github.com/Joe5565/e235/blob/master/Images/Step%208%20Completed.png)
+
+## Step 9
+
+![Step 9](https://github.com/Joe5565/e235/blob/master/Images/Step%209.png)
+
+Place the two light grey perpendicular 1x2x4 pieces on rows three and four of the light grey 2x4 piece as shown in picture
 
