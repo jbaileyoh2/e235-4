@@ -2,7 +2,7 @@
 
 Lego Design Guide
 
-![Legos Are Fun](https://images.fatherly.com/wp-content/uploads/2018/06/legos.jpg?q=65&enable=upscale&w=600)
+![Legos Are Fun](https://github.com/Joe5565/e235/blob/master/Images/Step%2012%20Completed.png)
 
 ## Step 1
 
